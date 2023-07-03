@@ -1,10 +1,4 @@
-<img align="left"  width="150" height="150" src=".github/rviewer_logo--dark.png" />
-
-## Rviewer skeleton: Python, Django & PostgreSQL
-
-[![Twitter](https://img.shields.io/badge/rviewer__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rviewer_/)
-
-<br/>
+# Python, Django & PostgreSQL
 
 This repository is a Python skeleton with Django & PostgreSQL designed for quickly getting started developing an API.
 Check the [Getting Started](#getting-started) for full details.
